@@ -1,4 +1,4 @@
-# YOLO CROP OBJECTS AROUND THE BOUNDING BOXES
+# YOLOv7 CROP OBJECTS AROUND THE BOUNDING BOXES
 
 ## Overview
   This projects was an assignment, that uses YOLOv7 to perform detection on vehicles and crops each detection 
