@@ -7,7 +7,7 @@
 ## IDE
   You can use any IDE to run the code, but in order to maximize the operations and save time we recommend using COLAB.
 
-[<kbd><img src="https://colab.research.google.com/img/colab_favicon.ico" width="16" height="16" style="vertical-align: middle;"></kbd> ](https://colab.research.google.com){:target="_blank"}
+<a href="https://colab.research.google.com" target="_blank"><kbd><img src="https://colab.research.google.com/img/colab_favicon.ico" width="16" height="16" style="vertical-align: middle;"></kbd></a>
 
 ## Table of Contents
 
