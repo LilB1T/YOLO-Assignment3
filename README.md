@@ -7,12 +7,12 @@
 ## Table of Contents
 
 1. [Installation](#installation)
-3. [Main.py](#main.py)
+3. [Main](#main)
 
 ## Installation
   pip install -r requirements.txt
 
-## Main.py
+## Main
 In order to run the main.py file, one must understand the parameters that are being used. Follow the table below to understand the meaning of each command inside main.py
 
 | Command | Description |
