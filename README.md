@@ -20,7 +20,6 @@ In order to run the main.py file, one must understand the parameters that are be
 | `weights` | weights file. |
 | `source` | validation dataset location. |
 | `img` | output image size, must be 640, because the model is trained that way. |
-| `conf` | is the confidence threshold, increase to get more fine detections decrease
-           # incase the model doesn't performs well. |
+| `conf` | is the confidence threshold, increase to get more fine detections decrease incase the model doesn't performs well. |
 
 after following the commands, replace with the desired requirements to run the code with different resutls and variations.
