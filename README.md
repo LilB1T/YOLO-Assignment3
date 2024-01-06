@@ -10,7 +10,9 @@
 3. [Main](#main)
 
 ## Installation
+
 Run the below command to install all the required packages and libraries.
+"""bash
 pip install -r requirements.txt
 
 ## Main
