@@ -7,7 +7,7 @@
 ## Table of Contents
 
 1. [Installation](#installation)
-3. [Main.py](#contributing)
+3. [Main.py](#main.py)
 
 ## Installation
   pip install -r requirements.txt
