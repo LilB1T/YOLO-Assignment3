@@ -4,6 +4,10 @@
   This projects was an assignment, that uses YOLOv7 to perform detection on vehicles and crops each detection 
   and saves it.
 
+## IDE
+  You can use any IDE to run the code, but in order to maximize the operations and save time we recommend using COLAB.
+  [Open in Google Colab](https://colab.research.google.com/)
+
 ## Table of Contents
 
 1. [Installation](#installation)
