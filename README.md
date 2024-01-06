@@ -11,7 +11,7 @@
 
 ## Installation
 Run the below command to install all the required packages and libraries.
-  pip install -r requirements.txt
+pip install -r requirements.txt
 
 ## Main
 In order to run the main.py file, one must understand the parameters that are being used. Follow the table below to understand the meaning of each command inside main.py
