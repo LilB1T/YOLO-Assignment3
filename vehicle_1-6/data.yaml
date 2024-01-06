@@ -1,0 +1,16 @@
+names:
+- auto rickshaw
+- bus
+- car
+- motorbike
+- truck
+nc: 5
+roboflow:
+  license: CC BY 4.0
+  project: vehicle_1-5kkt7
+  url: https://universe.roboflow.com/jadavpur-university-tpoll/vehicle_1-5kkt7/dataset/6
+  version: 6
+  workspace: jadavpur-university-tpoll
+test: ../test/images
+train: vehicle_1-6/train/images
+val: vehicle_1-6/valid/images
