@@ -26,7 +26,7 @@ In order to run the main.py file, one must understand the parameters that are be
 | Command | Description |
 | --- | --- |
 | `weights` | weights that were trained using the dataset. |
-| `source` | validation dataset location. The source location for the validation dataset follows the path "vehicle_1-6\valid\images" you can select any image from the directory by simply copying the relative path and replcae it in main.py |
+| `source` | test dataset location. The source location for the test dataset follows the path "vehicle_1-6\test\images" you can select any image from the directory by simply copying the relative path and replace it in main.py |
 | `img` | output image size, must be 640, because the model is trained that way. |
 | `conf` | is the confidence threshold, increase to get more fine detections decrease incase the model doesn't performs well. |
 
