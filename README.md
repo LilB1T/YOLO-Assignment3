@@ -6,9 +6,9 @@
 
 ## IDE
   You can use any IDE to run the code, but in order to maximize the operations and save time we recommend using COLAB.
-```
- [<kbd>Open in Google Colab</kbd>](https://colab.research.google.com/)
-```
+
+ [<kbd>Open in Google Colab</kbd> <img src="https://colab.research.google.com/img/colab_favicon.ico" width="16" height="16">](https://colab.research.google.com/)
+
 ## Table of Contents
 
 1. [Installation](#installation)
